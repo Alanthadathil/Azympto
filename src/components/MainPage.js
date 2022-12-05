@@ -899,6 +899,8 @@ const ContactDisc = styled.p`
         margin-bottom: 24px;
     }
 `;
+// -----------Contact Section End -----------
+
 const FooterSection = styled.footer`
     padding: 80px 0px 30px 0px;
     @media all and (max-width: 480px) {
@@ -974,3 +976,5 @@ const CompanItems = styled.h4`
         font-size: 14px;
     }
 `;
+
+// ------------Footer Section End -------------------
